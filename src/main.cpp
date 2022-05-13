@@ -8,7 +8,6 @@
 /*----------------------------------------------------------------------------*/
 #include "vex.h"
 #include "comp_debug.h"
-#include <fcntl.h>
 
 using namespace vex;
 
